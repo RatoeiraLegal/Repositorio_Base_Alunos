@@ -1,0 +1,2 @@
+Rammus | Notas: [1, 2, 3, 4] | Média: 2.5
+Jhin | Notas: [4, 4, 4, 4] | Média: 4.0
